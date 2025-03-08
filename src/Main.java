@@ -13,6 +13,8 @@ public class Main {
        System.out.println("O cargo do funcionario é: " + empresa.cargoFuncionario);
        System.out.println("O salario do funcionario é: " + empresa.valorFuncionario);
 
+        System.out.println(empresa.);
+
 
         //System.out.println("Olá Mundo");
         //System.out.println(77777);
