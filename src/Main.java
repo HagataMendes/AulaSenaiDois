@@ -19,7 +19,10 @@ public class Main {
         //System.out.println("Olá Mundo");
         //System.out.println(77777);
 
-
+         // testando nova branch
+          Empresa empresa = new EmpresaSetor();
+          System.out.println(EmpresaSetor.nomeSetorJuridico);
+          System.out.println(EmpresaSetor.nomeSetorRH);
 
         int aumento = 120;
         int salarioFuncionario = 1512;
